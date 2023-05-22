@@ -153,6 +153,11 @@ img {
   .why-us .col-left,
   .why-us .col-right {
     width: 100%;
-    margin-bottom: 1rem;
+  }
+
+  .lessons .col .card,
+  .steps .col .card,
+  .why-us .col-left {
+    margin-bottom: 3rem;
   }
 }
